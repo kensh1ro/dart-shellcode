@@ -5,7 +5,7 @@ This project shows that Dart can be used in Red teaming and Implant development 
 Security products are not good at analyzing Dart, and they won't be anytime soon, so this will probably stay FUD for a long time.
 
 ## Installation
-Make sure dart is installed in inside PATH environment variable
+Make sure dart is installed and inside PATH environment variable
 
 `git clone https://github.com/kensh1ro/dart-shellcode.git`
 
